@@ -1,0 +1,59 @@
+[
+    {
+        "name": "Mate",
+        "description": "Mate de calabaza",
+        "imageURL": "https://http2.mlstatic.com/D_NQ_NP_2X_968085-MLU44662593226_012021-F.webp",
+        "price": 5,
+        "quantity": 100
+    },
+    {
+        "name": "Pelota",
+        "description": "Pelota de futbol",
+        "imageURL": "https://m.media-amazon.com/images/I/615xwIblEAL._AC_SL1000_.jpg",
+        "price": 5,
+        "quantity": 100
+    },
+    {
+        "name": "Remera Nacional",
+        "description": "Remera de nacional",
+        "imageURL": "https://todosobrecamisetas.com/wp-content/uploads/camiseta-umbro-nacional-2021-1.jpg",
+        "price": 5,
+        "quantity": 100
+    },
+    {
+        "name": "Championes",
+        "description": "Championes en excelente estado",
+        "imageURL": "https://m.media-amazon.com/images/I/71Jp1D6twkL._AC_UL1500_.jpg",
+        "price": 5,
+        "quantity": 100
+    },
+    {
+        "name": "Matera",
+        "description": "Matera de cuero",
+        "imageURL": "https://d2j6dbq0eux0bg.cloudfront.net/images/20928051/3465050951.jpg",
+        "price": 5,
+        "quantity": 100
+    },
+    {
+        "name": "Medias",
+        "description": "medias rojas",
+        "imageURL": "https://f.fcdn.app/imgs/a05ae6/allie.com.uy/alliuy/b0b8/webp/catalogo/520107806910-118-01/2000-2000/medias-super-red-rojo-brillante.jpg",
+        "price": 5,
+        "quantity": 100
+    },
+    {
+        "name": "Jean",
+        "description": "jean negro",
+        "imageURL": "https://f.fcdn.app/imgs/fc9fc7/carters.com.uy/cartuy/0cc7/webp/catalogo/3N087610_0_1/1600x2000/pantalon-de-jean-clasico-color-negro-0.jpg",
+        "price": 5,
+        "quantity": 100
+    },
+    {
+        "name": "Raqueta de Tenis",
+        "description": "Raqueta babolat ultimo modelo",
+        "imageURL": "https://m.media-amazon.com/images/I/51F6qw-ulSL._AC_SL1000_.jpg",
+        "price": 5,
+        "quantity": 100
+    }
+
+]

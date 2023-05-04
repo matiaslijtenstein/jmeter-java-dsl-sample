@@ -39,6 +39,12 @@
       <scope>test</scope>
     </dependency>
     <dependency>
+    <groupId>us.abstracta.jmeter</groupId>
+    <artifactId>jmeter-java-dsl-dashboard</artifactId>
+    <version>1.9</version>
+    <scope>test</scope>
+    </dependency>
+    <dependency>
       <groupId>org.junit.jupiter</groupId>
       <artifactId>junit-jupiter-engine</artifactId>
       <version>5.9.0</version>

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "De todo",
+        "email": "detodo@gmail.com",
+        "address": "Calle 1",
+        "phone": "093939393"
+    },
+    {
+        "name": "Por mayor",
+        "email": "pormayor@gmail.com",
+        "address": "Calle 2",
+        "phone": "094094094"
+    },
+    {
+        "name": "Proveedor",
+        "email": "proveedor@gmail.com",
+        "address": "Calle 3",
+        "phone": "095095095"
+    },
+    {
+        "name": "Umbro",
+        "email": "umbro@gmail.com",
+        "address": "Calle 4",
+        "phone": "096096096"
+    },
+    {
+        "name": "MatesUru",
+        "email": "matesuru@gmail.com",
+        "address": "Calle 5",
+        "phone": "097097097"
+    }
+]
